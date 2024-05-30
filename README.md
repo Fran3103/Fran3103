@@ -32,7 +32,7 @@ Proyecto de Frontend mentor realizado en react con tailwind y obteniendo datos d
 ## 🌐 Encuéntrame en:
 
 - [LinkedIn](https://www.linkedin.com/in/franconahuelaguirre)
-- [Portfolio]([https://tu-portfolio.com](https://francoaguirre.vercel.app/))
+- [Portfolio]([https://tu-portfolio.com](https://francoaguirre.vercel.app/)
 
 ## 📧 Contacto
 
