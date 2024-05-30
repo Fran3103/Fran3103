@@ -1,7 +1,5 @@
 # ¡Hola, soy Franco! 👋
 
-![Banner](url-de-tu-banner-aqui)
-
 Soy un desarrollador apasionado por la creación de aplicaciones web y software robusto. Me encanta explorar nuevas tecnologías y mejorar continuamente mis habilidades. Aquí hay un vistazo a algunas de las tecnologías con las que trabajo:
 
 ## 🛠️ Tecnologías y Herramientas
@@ -40,7 +38,7 @@ Proyecto de Frontend mentor realizado en react con tailwind y obteniendo datos d
 
 Si quieres colaborar en algún proyecto o simplemente saludar, no dudes en contactarme:
 
-- **Email**: [tu-email@example.com](mailto:fn.aguirre@hotmail.com)
+- **Email**: [Franco Aguirre](mailto:fn.aguirre@hotmail.com)
 
 ## 📈 Estadísticas de GitHub
 
