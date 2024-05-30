@@ -22,7 +22,7 @@ Soy un desarrollador apasionado por la creación de aplicaciones web y software 
 ### [Proyecto Audiophile]([https://github.com/tu-usuario/proyecto-a](https://github.com/Fran3103/audiophile-ecommerce))
 Proyecto de Frontend mentor realizado en react con tailwind
 
-### [Proyecto B]([https://github.com/tu-usuario/proyecto-b](https://github.com/Fran3103/CountryApp))
+### [Proyecto App de Paises]([https://github.com/tu-usuario/proyecto-b](https://github.com/Fran3103/CountryApp))
 Proyecto de Frontend mentor realizado en react con tailwind y obteniendo datos de una api.
 
 
@@ -32,7 +32,7 @@ Proyecto de Frontend mentor realizado en react con tailwind y obteniendo datos d
 ## 🌐 Encuéntrame en:
 
 - [LinkedIn](https://www.linkedin.com/in/franconahuelaguirre)
-- [Portfolio Personal]([https://tu-portfolio.com](https://francoaguirre.vercel.app/))
+- [Portfolio]([https://tu-portfolio.com](https://francoaguirre.vercel.app/))
 
 ## 📧 Contacto
 
