@@ -19,10 +19,10 @@ Soy un desarrollador apasionado por la creación de aplicaciones web y software 
 
 ## 🌟 Proyectos Destacados
 
-### [Proyecto Audiophile]([https://github.com/tu-usuario/proyecto-a](https://github.com/Fran3103/audiophile-ecommerce))
+### [Proyecto Audiophile](https://github.com/Fran3103/audiophile-ecommerce)
 Proyecto de Frontend mentor realizado en react con tailwind
 
-### [Proyecto App de Paises]([https://github.com/tu-usuario/proyecto-b](https://github.com/Fran3103/CountryApp))
+### [Proyecto App de Paises](https://github.com/Fran3103/CountryApp)
 Proyecto de Frontend mentor realizado en react con tailwind y obteniendo datos de una api.
 
 
