@@ -21,40 +21,31 @@ Soy un desarrollador apasionado por la creación de aplicaciones web y software 
 
 ## 🌟 Proyectos Destacados
 
-### [Proyecto A](https://github.com/tu-usuario/proyecto-a)
-Una descripción breve de tu proyecto, las tecnologías que utilizaste y por qué es interesante.
+### [Proyecto Audiophile]([https://github.com/tu-usuario/proyecto-a](https://github.com/Fran3103/audiophile-ecommerce))
+Proyecto de Frontend mentor realizado en react con tailwind
 
-### [Proyecto B](https://github.com/tu-usuario/proyecto-b)
-Otra descripción breve de un proyecto destacado, resaltando las habilidades y tecnologías que aplicaste.
+### [Proyecto B]([https://github.com/tu-usuario/proyecto-b](https://github.com/Fran3103/CountryApp))
+Proyecto de Frontend mentor realizado en react con tailwind y obteniendo datos de una api.
 
-## 📚 Experiencia
 
-- **Desarrollador Web en [Empresa X](https://empresa-x.com)** (Año - Año)
-  - Descripción breve de tus responsabilidades y logros.
 
-- **Intern en [Empresa Y](https://empresa-y.com)** (Año - Año)
-  - Descripción breve de tus responsabilidades y logros.
 
-## 🎓 Educación
-
-- **Título en [Carrera]** - [Universidad] (Año - Año)
 
 ## 🌐 Encuéntrame en:
 
-- [LinkedIn](https://www.linkedin.com/in/tu-usuario)
-- [Twitter](https://twitter.com/tu-usuario)
-- [Portfolio Personal](https://tu-portfolio.com)
+- [LinkedIn](https://www.linkedin.com/in/franconahuelaguirre)
+- [Portfolio Personal]([https://tu-portfolio.com](https://francoaguirre.vercel.app/))
 
 ## 📧 Contacto
 
 Si quieres colaborar en algún proyecto o simplemente saludar, no dudes en contactarme:
 
-- **Email**: [tu-email@example.com](mailto:tu-email@example.com)
+- **Email**: [tu-email@example.com](mailto:fn.aguirre@hotmail.com)
 
 ## 📈 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Fran3103&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Fran3103&layout=compact&theme=radical)
 
 ---
 
