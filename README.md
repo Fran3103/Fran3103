@@ -1,6 +1,6 @@
 # ¡Hola, soy Franco! 👋
 
-Soy un desarrollador apasionado por la creación de aplicaciones web y software robusto. Me encanta explorar nuevas tecnologías y mejorar continuamente mis habilidades. Aquí hay un vistazo a algunas de las tecnologías con las que trabajo:
+Soy un desarrollador apasionado por la creación de páginas y  aplicaciones web . Me encanta explorar nuevas tecnologías y mejorar continuamente mis habilidades. Aquí hay un vistazo a algunas de las tecnologías con las que trabajo:
 
 ## 🛠️ Tecnologías y Herramientas
 
