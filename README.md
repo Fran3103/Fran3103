@@ -15,7 +15,9 @@ Soy un desarrollador apasionado por la creación de páginas y  aplicaciones web
 
 ### Backend
 
-- **Java**: Desarrollo de aplicaciones backend robustas.
+- **Java**: Desarrollo de aplicaciones backend robustas.   
+- **Spring Boot**: Desarrollo API con Spring boot.
+- **Spring Cloud**: Desarrollo de Microservicios con Spring Cloud.
 
 ## 🌟 Proyectos Destacados
 
