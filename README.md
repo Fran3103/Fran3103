@@ -42,11 +42,5 @@ Si quieres colaborar en algún proyecto o simplemente saludar, no dudes en conta
 
 - **Email**: [Franco Aguirre](mailto:fn.aguirre@hotmail.com)
 
-## 📈 Estadísticas de GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Fran3103&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Fran3103&layout=compact&theme=radical)
-
----
 
 ¡Gracias por visitar mi perfil! 😄
