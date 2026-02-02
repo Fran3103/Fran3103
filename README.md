@@ -18,7 +18,7 @@ Soy un desarrollador apasionado por la creación de páginas y  aplicaciones web
 - **Java**: Desarrollo de aplicaciones backend robustas.   
 - **Spring Boot**: Desarrollo API con Spring boot.
 - **Spring Cloud**: Desarrollo de Microservicios con Spring Cloud.
-- **Spring Security: Implementacion de seguirdad con Spring Security.
+- **Spring Security**: Implementacion de seguirdad con Spring Security.
 
 ## 🌟 Proyectos Destacados
 
