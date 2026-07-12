@@ -8,13 +8,9 @@ Me enfoco en desarrollar aplicaciones web funcionales, mantenibles y conectadas 
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fran3103&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
+![Franco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fran3103&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fran3103&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fran3103&layout=compact&theme=tokyonight)
 
 ---
 
