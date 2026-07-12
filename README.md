@@ -1,16 +1,26 @@
 # Hola, soy Franco Aguirre 👋
 
-Desarrollador orientado a **backend con Java, Spring Boot y SQL**, con experiencia construyendo APIs REST, integrando bases de datos relacionales, aplicando autenticación con JWT, documentando endpoints con Swagger, escribiendo tests y conectando frontend con React.
+Desarrollador orientado principalmente al **backend con Java, Spring Boot y SQL**, con experiencia construyendo APIs REST, modelando bases de datos relacionales, trabajando con autenticación JWT, documentación con Swagger y pruebas con JUnit, Mockito y Postman.
 
-Me enfoco en desarrollar aplicaciones web funcionales, mantenibles y conectadas de punta a punta: desde el diseño de entidades, relaciones y endpoints hasta la integración con interfaces frontend.
+También integro frontend con **React**, TypeScript y Axios, lo que me permite comprender el flujo completo de una aplicación: desde las entidades, relaciones y reglas de negocio en el backend, hasta el consumo de datos y la experiencia del usuario en la interfaz.
+
+Me interesa desarrollar aplicaciones web funcionales, mantenibles y bien documentadas, aplicando buenas prácticas de arquitectura por capas, validaciones, manejo de errores, testing y mejora continua.
+
+Busco seguir creciendo en proyectos donde pueda aportar desde el desarrollo backend, la integración con bases de datos y la construcción de APIs REST, sin perder de vista la calidad del código, la documentación y la experiencia de uso del producto.
+
+Actualmente estoy orientando mi perfil hacia oportunidades como **Backend Java Jr**, **Full Stack Jr** o roles técnicos relacionados, donde pueda aplicar Java, Spring Boot, SQL, React y buenas prácticas de desarrollo en proyectos reales.
 
 ---
+## 🧩 Perfil técnico
 
-## 📊 GitHub Stats
+- Desarrollo backend con **Java, Spring Boot y SQL**
+- Diseño de **APIs REST** con autenticación, validaciones y documentación
+- Integración con bases de datos relacionales usando **PostgreSQL, JPA/Hibernate y Flyway**
+- Testing con **JUnit 5, Mockito y Postman**
+- Consumo de APIs desde frontend con **React, TypeScript, Axios y React Router**
+- Uso de **Docker Compose** para entornos locales
+- Automatización de build con **GitHub Actions CI**
 
-![Franco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fran3103&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fran3103&layout=compact&theme=tokyonight)
 ---
 
 ## 🧩 Stack principal
